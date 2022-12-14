@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://osu.ppy.sh/users/28514583">
+<a href="https://osu.ppy.sh/users/32240840">
        <img src="https://i.redd.it/5mpu4hi0m2v81.png" />
     </a>
 
