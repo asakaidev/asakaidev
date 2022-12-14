@@ -3,7 +3,7 @@
        <img src="https://i.redd.it/5mpu4hi0m2v81.png" />
     </a>
 
-<h1 align="center">Hello! I'm <a href="https://osu.ppy.sh/users/28514583" target="_blank">Saku</a></h1>
+<h1 align="center">Hello! I'm <a href="https://osu.ppy.sh/users/32240840" target="_blank">Saku</a></h1>
 <h3 align="center">"Just a student still learning how this python and Node.JS shit works"</h3>
 <p align="center"> <img src="https://a.ppy.sh/19104542?1647425139.jpeg" alt="wgat" /> </p>
 
@@ -22,7 +22,7 @@
 <p align="center"> <img height="20" src="https://badges.aleen42.com/src/osu.svg"/> </p> <p align="center"> <img height="60" 
 														
 <a href="https://osu.ppy.sh/users/28514583">
-  <img src="https://osu-sig.vercel.app/card?user=28514583&mode=std&lang=en&blur=6&animation=true" />
+  <img src="https://osu-sig.vercel.app/card?user=32240840&mode=std&lang=en&blur=6&animation=true" />
 </a> 
 
 <h3 align="center">Stats:</h3>
