@@ -5,8 +5,6 @@
 
 <h1 align="center">Hello! I'm <a href="https://osu.ppy.sh/users/32240840" target="_blank">Saku</a></h1>
 <h3 align="center">"Just a student still learning how this python and Node.JS shit works"</h3>
-<p align="center"> <img src="https://a.ppy.sh/19104542?1647425139.jpeg" alt="wgat" /> </p>
-
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
