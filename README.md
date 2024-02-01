@@ -4,7 +4,7 @@
     </a>
 
 <h1 align="center">Hello! I'm <a href="https://osu.ppy.sh/users/32240840" target="_blank">Saku</a></h1>
-<h3 align="center">"y u no doctor yet? - Mother"</h3>
+<h3 align="center">how do I become a doctor again</h3>
 <h6 align="center">I do stuff in my free time</h6>
 
 <h3 align="center">Languages and Tools:</h3>
