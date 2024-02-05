@@ -35,6 +35,9 @@
  </td>
  <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asakaidev&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=synthwave"/> </td>
   </tr>
+	I'll probably start doing all this again in 11th grade.
+	there's no guarantee I'll be online on this account
+	I am inactive on discord, and Osu! as I have left but there's a slim chance I might reply on discord - "sakutariyal' 
  <table>
 
 	 
